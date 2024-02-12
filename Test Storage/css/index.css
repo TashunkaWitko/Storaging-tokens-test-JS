@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.container{
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.alert-danger{
+    display: none;
+}
+
+h2{
+    text-align: center;
+}
